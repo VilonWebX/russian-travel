@@ -1,5 +1,0 @@
-.places__title {
-    font-size: clamp(32px, 10vh, 46px);
-    line-height: clamp(35px, 10vh, 46px);
-    font-weight: 900;
-}
